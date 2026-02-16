@@ -1,0 +1,1 @@
+A small project for the odin project, where we will put on test some basics html skills. The project is about a webpage with a variety of recipes.
